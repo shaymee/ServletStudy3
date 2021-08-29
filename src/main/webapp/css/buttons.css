@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.btn1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: yellow;
+  box-shadow: 15px 3px 0px 10px inset;
+}
+
+.btn2 {
+  width: 75px;
+  height: 73px;
+  border-style: solid transparent;
+  border-width: 3px;
+  background-image: url("../images/spongebob.jpeg");
+}
+
+.btn3 {
+  width: 80px;
+  height: 80px;
+  background-color: black;
+  color: white;
+  font-size: xx-small;
+  font-style: oblique;
+  border-radius: 25px;
+}
+
+.btn4 {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid pink;
+}
+
+.btn5 {
+  border-width: 4px;
+  background-color: greenyellow;
+  color: red;
+}
